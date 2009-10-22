@@ -1,0 +1,40 @@
+[Thu Oct 22 13:06:03 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 22 13:06:03 2009] [notice] Digest: done
+[Thu Oct 22 13:06:06 2009] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color Resin/3.1.2 PHP/5.3.0 mod_perl/2.0.4 Perl/v5.10.0 configured -- resuming normal operations
+[Thu Oct 22 13:06:06 2009] [notice] Server built: Jul 22 2009 11:35:54
+[Thu Oct 22 13:06:06 2009] [notice] Parent: Created child process 4192
+[Thu Oct 22 13:06:08 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 22 13:06:08 2009] [notice] Digest: done
+[Thu Oct 22 13:06:10 2009] [notice] Child 4192: Child process is running
+[Thu Oct 22 13:06:10 2009] [notice] Child 4192: Acquired the start mutex.
+[Thu Oct 22 13:06:10 2009] [notice] Child 4192: Starting 150 worker threads.
+[Thu Oct 22 13:06:10 2009] [notice] Child 4192: Starting thread to listen on port 80.
+[Thu Oct 22 13:06:10 2009] [notice] Child 4192: Starting thread to listen on port 443.
+[Thu Oct 22 13:06:10 2009] [notice] Child 4192: Starting thread to listen on port 443.
+[Thu Oct 22 13:06:10 2009] [notice] Child 4192: Starting thread to listen on port 80.
+[Thu Oct 22 13:07:11 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 22 13:07:11 2009] [notice] Child 4192: Exit event signaled. Child process is ending.
+[Thu Oct 22 13:07:12 2009] [notice] Child 4192: Released the start mutex
+[Thu Oct 22 13:07:13 2009] [notice] Child 4192: All worker threads have exited.
+[Thu Oct 22 13:07:13 2009] [notice] Child 4192: Child process is exiting
+[Thu Oct 22 13:07:13 2009] [notice] Parent: Child process exited successfully.
+[Thu Oct 22 13:08:29 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 22 13:08:29 2009] [notice] Digest: done
+[Thu Oct 22 13:08:31 2009] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color Resin/3.1.2 PHP/5.3.0 mod_perl/2.0.4 Perl/v5.10.0 configured -- resuming normal operations
+[Thu Oct 22 13:08:31 2009] [notice] Server built: Jul 22 2009 11:35:54
+[Thu Oct 22 13:08:31 2009] [notice] Parent: Created child process 4444
+[Thu Oct 22 13:08:33 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 22 13:08:33 2009] [notice] Digest: done
+[Thu Oct 22 13:08:35 2009] [notice] Child 4444: Child process is running
+[Thu Oct 22 13:08:35 2009] [notice] Child 4444: Acquired the start mutex.
+[Thu Oct 22 13:08:35 2009] [notice] Child 4444: Starting 150 worker threads.
+[Thu Oct 22 13:08:35 2009] [notice] Child 4444: Starting thread to listen on port 80.
+[Thu Oct 22 13:08:35 2009] [notice] Child 4444: Starting thread to listen on port 443.
+[Thu Oct 22 13:08:35 2009] [notice] Child 4444: Starting thread to listen on port 80.
+[Thu Oct 22 13:08:35 2009] [notice] Child 4444: Starting thread to listen on port 443.
+[Thu Oct 22 13:47:51 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 22 13:47:51 2009] [notice] Child 4444: Exit event signaled. Child process is ending.
+[Thu Oct 22 13:47:52 2009] [notice] Child 4444: Released the start mutex
+[Thu Oct 22 13:47:53 2009] [notice] Child 4444: All worker threads have exited.
+[Thu Oct 22 13:47:53 2009] [notice] Child 4444: Child process is exiting
+[Thu Oct 22 13:47:53 2009] [notice] Parent: Child process exited successfully.

@@ -1,0 +1,4 @@
+
+You find a detailed installtion documentation on:
+
+http://www.caucho.com/resin-3.0/install/httpd.xtp
