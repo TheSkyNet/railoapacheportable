@@ -1,0 +1,22 @@
+#summary Installation instructions
+#labels Phase-Deploy
+
+= Introduction =
+
+Basic steps to run Railo using Apache as the web server.
+
+
+= Details =
+* UnRar the files and run setup_xampp.bat
+* run setup_xampp.bat
+* run startRailo.bat and wait until it finishes starting Railo and Resin
+* run apache_start.bat
+* Open http://localhost/index.cfm in a browser and set up the Railo Administrator
+* Open http://localhost/ and set up XAMPP
+* run the other start and stop bat files to start and stop the other servers like mysql_start.bat for mysql
+
+
+Note: xampp-control.exe will not work correctly. I am assuming that both Railo's and Apache's executable are named httpd.exe 
+
+
+ 
