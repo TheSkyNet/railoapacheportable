@@ -12,7 +12,7 @@
  * run the other start and stop bat files to start and stop the other servers like mysql_start.bat for mysql
 
 
-Note: xampp-control.exe will not work correctly. I am assuming that both Railo's and Apache's executable are named httpd.exe 
+Note: xampp-control.exe will not work correctly with Apache use apache_start.bat instead. I am assuming it is because that both Railo's and Apache's executable are named httpd.exe 
 
 = IMPORTANT =
 Make sure that you properly lock down XAMPP by going to XAMPP's security section located here: here http://localhost/security/
