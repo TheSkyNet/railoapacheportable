@@ -18,6 +18,7 @@ Basic steps to run Railo using Apache as the web server.
 
 Note: xampp-control.exe will not work correctly. I am assuming that both Railo's and Apache's executable are named httpd.exe 
 
+= IMPORTANT =
 Make sure that you properly lock down XAMPP by going to XAMPP's security section located here: here http://localhost/security/
 
  
