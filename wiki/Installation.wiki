@@ -13,6 +13,7 @@ Basic steps to run Railo using Apache as the web server.
  * run apache_start.bat
  * Open http://localhost/index.cfm in a browser and set up the Railo Administrator
  * Open http://localhost/ and set up XAMPP
+ * Open http://localhost/security/ and secure XAMPP
  * run the other start and stop bat files to start and stop the other servers like mysql_start.bat for mysql
 
 
