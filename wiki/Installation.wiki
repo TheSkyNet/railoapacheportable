@@ -1,11 +1,6 @@
 #summary Installation instructions
 #labels Phase-Deploy
 
-= Introduction =
-
-Basic steps to run Railo using Apache as the web server.
-
-
 = Installation =
  * Unrar the files and run setup_xampp.bat
  * run setup_xampp.bat
