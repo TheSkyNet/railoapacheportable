@@ -7,7 +7,7 @@ Basic steps to run Railo using Apache as the web server.
 
 
 = Details =
- * UnRar the files and run setup_xampp.bat
+ * Unrar the files and run setup_xampp.bat
  * run setup_xampp.bat
  * run startRailo.bat and wait until it finishes starting Railo and Resin
  * run apache_start.bat
