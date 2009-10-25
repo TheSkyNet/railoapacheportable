@@ -4,15 +4,15 @@
 = Installation =
  * Unrar the files and run setup_xampp.bat
  * run setup_xampp.bat
- * run startRailo.bat and wait until it finishes starting Railo and Resin
- * run apache_start.bat
- * Open http://localhost/index.cfm in a browser and set up the Railo Administrator
+ * run _Start_Apache_MySQL_Railo.bat
  * Open http://localhost/ and set up XAMPP
  * Open http://localhost/security/ and secure XAMPP
+ * Open http://localhost/ in a browser and set up the Railo Administrator
  * run the other start and stop bat files to start and stop the other servers like mysql_start.bat for mysql
 
+If you have problems with 503 errors see ProblemsAndWorkArounds in the wiki 
 
-Note: xampp-control.exe will not work correctly with Apache use apache_start.bat instead. I am assuming it is because that both Railo's and Apache's executable are named httpd.exe 
+http://code.google.com/p/railoapacheportable/wiki/ProblemsAndWorkArounds   
 
 = IMPORTANT =
 Make sure that you properly lock down XAMPP by going to XAMPP's security section located here: here http://localhost/security/
